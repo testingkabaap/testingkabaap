@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-😂
+- 🔭 I’m currently working on API
+- 🌱 I’m currently learning React
+- 💬 Ask me about PHP
+- 📫 How to reach me: testingkabaap@gmail.com
 
 <!--
 **testingkabaap/testingkabaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
